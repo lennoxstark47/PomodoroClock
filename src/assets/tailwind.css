@@ -1,0 +1,8 @@
+/* import all the base styles and configurations from Get Started secion of the
+tailwindcss website */
+
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
